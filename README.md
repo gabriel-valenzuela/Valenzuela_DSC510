@@ -1,2 +1,2 @@
-# Valenzuela_DSC510
+# Valenzuela_Gabriel_DSC510
 Class Folder
