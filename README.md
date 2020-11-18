@@ -4,7 +4,7 @@
 
 ### Objective
 
-The goal of this introduction project is to allow the user to look up the general weather by city or zip code by connecting to OpenWeatherApp API.
+The goal of this introduction project is to allow the user to look up the general weather by city or zip code by connecting to OpenWeatherApp API. The source code can be located in the "Final Project" folder within this repo. 
 
 ![Sun Logo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC510/blob/master/WeatherIcon.png)
 
@@ -85,3 +85,6 @@ def getWeatherZip(zipCode):
     except Exception as e:
         print(e)
 ```
+### Conlcusion
+
+When it comes to this project, it will allow a user to determine the weather for a city or zip code that is entered into the program. At the same time, the program is able to determine if the city or zip code entered does not exist and informs the user to attempt to re-enter the details once more again. With this program, the user is able to connect to a Weather API that will determine the weather in real-time for them. 
